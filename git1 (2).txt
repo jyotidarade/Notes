@@ -1,0 +1,61 @@
+[10:51 am, 11/05/2023] ¥ogesh Code Nucleus: What are various middleware in django's middleware ? 
+Exaplain signficance of each? 
+What happens if we comment out one of them? 
+Which middleware you used in your project? 
+Are you able to develop custom middleware based on requirements? 
+
+Do you ever seen keyword 'related names' in your project? 
+In which module? 
+What it's significance? 
+Is it only used in one to many relationship? 
+
+
+What is MRO? 
+Can you explain hydrid inheritance? 
+
+Write code in which Consider a Hybrid inheritance structure for 6 classes A,B,C,D,E,F.
+Write MRO function for F  class.
+
+
+What is anagram? 
+Write a code to check whether strings are anagram or not.
+
+What is palindrome? 
+Write a code to check whether strings are palindrome or not.
+
+
+What is armstrong number? 
+Can write code …
+[10:51 am, 11/05/2023] ¥ogesh Code Nucleus: What is decorator? 
+
+
+Write square & cube function and Write a decorator function to  calculate & print time taken by each function.
+
+
+
+Write code for person model with name, email, password & contact number. 
+& also write a view model to display those fields.
+
+What is MRO?
+
+What is of q object in ORM? 
+
+How we use OR operator in ORM ? 
+
+Why we use bitwise OR in ORM why can't we use normal OR ? 
+
+What is middleware?
+
+Difference between primary key & Unique key? 
+
+Difference between delete & truncate?
+
+What are various joins in SQL? Explain one by one
+
+How to find specific name starts with a in a table?
+
+Which git commands you use regularly? 
+ 
+Git stash vs git push
+
+Git fetch vs git pull
